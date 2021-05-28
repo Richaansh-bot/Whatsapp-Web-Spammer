@@ -49,10 +49,6 @@ Whatsapp web spammer Extension used in Google Chrome, Brave, and many more via T
 
 ### 5.Here you go 🤓 ................Click on stop button to stop the script.
 ***
-
-#Social media Handles
-
-
 # Tips
 `Use Browsers ie. Brave & Google Chrome allows more access to websites via Extensions.
 `
