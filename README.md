@@ -49,9 +49,15 @@ Whatsapp web spammer Extension used in Google Chrome, Brave, and many more via T
 
 ### 5.Here you go 🤓 ................Click on stop button to stop the script.
 ***
+
+#Social media Handles
+
+
 # Tips
 `Use Browsers ie. Brave & Google Chrome allows more access to websites via Extensions.
 `
 ***
 # Disclaimer 
 `Any actions and or activities related to the material contained within this Website are solely your responsibility. The misuse of the information on this website can result in criminal charges brought against the persons in question. The author of "https://github.com/Richaansh-bot/Whatsapp-Web-Spammer.git" will not be held responsible in the event any criminal charges be brought against any individuals misusing the information in this website to break the law. This site contains materials that can be potentially damaging or dangerous. If you do not fully understand please LEAVE THIS WEBSITE. Also, be sure to check the laws in your province/country before accessing.Do not abuse this material. Be responsible.`
+
+
