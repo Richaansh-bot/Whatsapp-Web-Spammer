@@ -93,7 +93,7 @@ function doSpam(spamButton) {
       window.alert('Please enter a text to be spammed before using the spam button.');
       return;
     }
-    let interval = 1000 * parseInt(prompt('Please enter spam-interval in seconds:', 'Richaansh™#𝙍𝙚𝙐𝙉𝙞𝙏𝙚𝘿🇮🇳'));
+    let interval = 1000 * parseInt(prompt('Please enter spam-interval in seconds:', 'Made by Richaansh™#𝙍𝙚𝙐𝙉𝙞𝙏𝙚𝘿🇮🇳'));
     if (!interval) {
       spamButton.innerHTML = 'SPAM';
       //console.log('WA Spam: Interval input cancelled.');
